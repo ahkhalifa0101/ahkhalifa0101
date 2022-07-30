@@ -3,7 +3,7 @@
 
 ###### *Software Engineer*
 
-A Software Engineer with industry experience bulidng automation systems specializing in Full Stack development with Node.js,RoR, Reactjs and MongoDB. 
+A Software Engineer with industry experience bulidng Web applications  specializing in Full Stack development with C# , Sql Server and Angular. 
 
 * Backend: C#
 * Databases: SQl Server , Oracle.
@@ -11,8 +11,7 @@ A Software Engineer with industry experience bulidng automation systems speciali
 
 ## Some facts: 
 
-- 🔭 I’m currently working [Software Engineer] [At] Data Management Systems
-- 👯 I’m looking to collaborate on open source projects that makes automation a little easy.
+- 🔭 I’m currently working as Software Engineer At Data Management Systems
 - 📫 How to reach me: ahkhalifa01@outlook.com
 - 😄 Pronouns: Ah mee d
 
