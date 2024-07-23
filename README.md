@@ -11,7 +11,7 @@ A Software Engineer with industry experience bulidng Web applications  specializ
 
 ## Some facts: 
 
-- 🔭 I’m currently working as Software Engineer At Data Management Systems
+- 🔭 I’m currently working as Software Engineer At Centro Global Solutions
 - 📫 How to reach me: ahkhalifa01@outlook.com
 - 😄 Pronouns: Ah mee d
 
